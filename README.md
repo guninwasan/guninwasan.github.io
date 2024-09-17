@@ -44,6 +44,17 @@ This repository is a clone of [varadbhogayata.github.io](https://github.com/vara
   <img width="1906" alt="image" src="https://github.com/user-attachments/assets/ca24c42c-ed5b-4974-8468-2fcac07b2a65">
 
 
+## Activity-5: Adding Dynamic Content with JavaScript
+  ### Website:
+  <img width="1436" alt="image" src="https://github.com/user-attachments/assets/78c7fbe2-29eb-4aba-a2a7-93ee6547b526">
+  <img width="1436" alt="image" src="https://github.com/user-attachments/assets/ce5da03a-42ff-4fda-9399-f42c265bc90e">
+  <img width="1436" alt="image" src="https://github.com/user-attachments/assets/963e0d17-f133-4e43-b114-ae6da1f2a9f8">
+
+  ### Repo:
+  
+
+
+
 
 
 
