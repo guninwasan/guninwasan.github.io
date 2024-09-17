@@ -22,6 +22,22 @@ This repository is a clone of [varadbhogayata.github.io](https://github.com/vara
   ### Repo:
   <img width="1909" alt="image" src="https://github.com/user-attachments/assets/81a89040-22a0-45b3-b4b0-92557bab5495">
 
+## Activity-3: Changing the Theme Color of Your Personal Website
+
+  ### Website:
+  <img width="1909" alt="image" src="https://github.com/user-attachments/assets/91d87a18-2cf5-44df-9986-e0412d1e5a78">
+  <img width="1909" alt="image" src="https://github.com/user-attachments/assets/06f904b9-170e-44f6-8c14-762e4420e0ce">
+  <img width="1909" alt="Screenshot 2024-09-17 at 14 36 31" src="https://github.com/user-attachments/assets/77f6957e-f28e-4b50-acf0-5a27bc4c5fd6">
+  <img width="1909" alt="image" src="https://github.com/user-attachments/assets/e4b10620-fce7-4585-af03-1ad8c01ad9c1">
+  <img width="1909" alt="image" src="https://github.com/user-attachments/assets/8a054750-968e-4861-b4ee-1f6cccc0a95d">
+  <img width="1909" alt="image" src="https://github.com/user-attachments/assets/c5624f82-89c7-47bd-a8b0-0e00ed4b8371">
+  ![Uploading image.png…]()
+
+  
+
+
+
+
 
 
 
