@@ -740,3 +740,13 @@ small {
 .section-complete {
   height: 100%;
 }
+
+.skill-name {
+  margin-bottom: 2rem;
+}
+
+.row.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -52,8 +52,12 @@ document.addEventListener("DOMContentLoaded", function () {
       img.src = skill.img;
       img.className = "responsive-img";
 
+      const skillName = document.createElement("div");
+      skillName.className = "skill-name";
+      skillName.textContent = skill.name;
+
       col.appendChild(img);
-      col.appendChild(document.createTextNode(skill.name));
+      col.appendChild(skillName);
       row.appendChild(col);
     });
 
