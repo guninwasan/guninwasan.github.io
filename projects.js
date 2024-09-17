@@ -62,13 +62,15 @@ const projectsContent = [
   },
 ];
 
+const INITIAL_PROJECT_VALUE = 3;
+
 document.addEventListener("DOMContentLoaded", function () {
   const recentProjectsContainer = document.getElementById("recent-projects");
   const allProjectsContainer = document.getElementById("all-projects");
   const loadMoreButton = document.getElementById("load-more");
   const showLessButton = document.getElementById("show-less");
 
-  let projectsDisplayed = 2;
+  let projectsDisplayed = INITIAL_PROJECT_VALUE;
 
   function createProjectCard(project) {
     const card = document.createElement("div");
@@ -137,7 +139,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function showLessProjects() {
-    projectsDisplayed = 2;
+    projectsDisplayed = INITIAL_PROJECT_VALUE;
     displayProjects();
   }
 

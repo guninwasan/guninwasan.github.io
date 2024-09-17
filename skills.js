@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
       { name: "HTML5", img: "/assets/img/html-dark.png" },
       { name: "CSS3", img: "/assets/img/css-dark.png" },
       { name: "React", img: "/assets/img/react.png" },
-      { name: "Next.js", img: "/assets/img/next-light.png" },
+      { name: "Next.js", img: "/assets/img/next-dark.png" },
       { name: "TypeScript", img: "/assets/img/ts.png" },
       { name: "Django", img: "/assets/img/django-logo.webp" },
       { name: "Flask", img: "/assets/img/flask-logo.png" },
@@ -52,8 +52,12 @@ document.addEventListener("DOMContentLoaded", function () {
       img.src = skill.img;
       img.className = "responsive-img";
 
+      const skillName = document.createElement("div");
+      skillName.className = "skill-name";
+      skillName.textContent = skill.name;
+
       col.appendChild(img);
-      col.appendChild(document.createTextNode(skill.name));
+      col.appendChild(skillName);
       row.appendChild(col);
     });
 
