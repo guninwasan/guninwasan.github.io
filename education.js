@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <p>
             <span class="card-title teal-text hoverline">${edu.title}</span>
           </p>
-          <p class="brown-text">${edu.location}</p>
+          <p class="text-darken-2">${edu.location}</p>
           <p>
             <b>Degree: </b>${edu.subTitle}
             <br>
