@@ -38,16 +38,17 @@ This repository is a clone of [varadbhogayata.github.io](https://github.com/vara
 
 ## Activity-4: Creating new section and embedding google maps
   ### Website:
-  <img width="1906" alt="image" src="https://github.com/user-attachments/assets/7c605ac1-dea6-40ce-a167-1e3709a14ef8">
-  
+  <img width="1440" alt="image" src="https://github.com/user-attachments/assets/275603b8-e061-4af6-923e-a1bbc6e11e64">
+
+    
   ### Repo:
   <img width="1906" alt="image" src="https://github.com/user-attachments/assets/ca24c42c-ed5b-4974-8468-2fcac07b2a65">
 
 
 ## Activity-5: Adding Dynamic Content with JavaScript
   ### Website:
-  <img width="1436" alt="image" src="https://github.com/user-attachments/assets/78c7fbe2-29eb-4aba-a2a7-93ee6547b526">
-  <img width="1436" alt="image" src="https://github.com/user-attachments/assets/ce5da03a-42ff-4fda-9399-f42c265bc90e">
+  <img width="1440" alt="image" src="https://github.com/user-attachments/assets/a795d638-8c23-48c8-bc08-d343d38521fd">
+  <img width="1440" alt="image" src="https://github.com/user-attachments/assets/a4f043e0-6545-4b54-ab94-383a21bdb507">
   <img width="1436" alt="image" src="https://github.com/user-attachments/assets/963e0d17-f133-4e43-b114-ae6da1f2a9f8">
 
   ### Repo:
