@@ -17,7 +17,6 @@ document.addEventListener("DOMContentLoaded", () => {
       src="${mapUrl}"
       class="responsive-iframe"
       allowfullscreen=""
-      loading="lazy"
     ></iframe>
   `;
 
