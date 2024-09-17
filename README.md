@@ -31,6 +31,9 @@ This repository is a clone of [varadbhogayata.github.io](https://github.com/vara
   <img width="1909" alt="image" src="https://github.com/user-attachments/assets/e4b10620-fce7-4585-af03-1ad8c01ad9c1">
   <img width="1909" alt="image" src="https://github.com/user-attachments/assets/8a054750-968e-4861-b4ee-1f6cccc0a95d">
   <img width="1909" alt="image" src="https://github.com/user-attachments/assets/c5624f82-89c7-47bd-a8b0-0e00ed4b8371">
+  <img width="1427" alt="image" src="https://github.com/user-attachments/assets/98308716-96d5-4cfa-be59-0e0c75d38d07">
+  
+  ### Repo:
   ![Uploading image.png…]()
 
   
