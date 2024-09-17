@@ -1,4 +1,5 @@
-# Personal Website ECE444 PRA1 - Gunin Wasan
+# Gunin Wasan's Personal Website
 
-This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
-Updated by Gunin Wasan.
+## Overview
+
+This repository is a clone of [varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io). It serves as a personal website project for the ECE444 PRA1 course.
