@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
     cardContent.className = "card-content";
 
     const cardTitle = document.createElement("h4");
-    cardTitle.className = "brown-text light";
+    cardTitle.className = "light";
     cardTitle.textContent = title;
 
     const row = document.createElement("div");

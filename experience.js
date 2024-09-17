@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         </p>
                     </div>
                 </div>
-                <div class="role brown-text text-darken-2">${exp.role}</div>
+                <div class="role text-darken-2">${exp.role}</div>
                 <ul>
                     ${exp.description
                       .map((item) => `<li>${item}</li>`)
