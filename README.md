@@ -35,14 +35,15 @@ This repository is a clone of [varadbhogayata.github.io](https://github.com/vara
   
   ### Repo:
   <img width="1427" alt="image" src="https://github.com/user-attachments/assets/98308716-96d5-4cfa-be59-0e0c75d38d07">
-  <img width="1427" alt="image" src="https://github.com/user-attachments/assets/a474a3bc-9647-44a8-9e99-94a7556aa288">
 
 ## Activity-4: Creating new section and embedding google maps
   ### Website:
   <img width="1906" alt="image" src="https://github.com/user-attachments/assets/7c605ac1-dea6-40ce-a167-1e3709a14ef8">
   
   ### Repo:
-  <img width="1427" alt="image" src="https://github.com/user-attachments/assets/ca04fa65-c5a6-4e75-9cc8-341974f2fbd2">
+  <img width="1906" alt="image" src="https://github.com/user-attachments/assets/ca24c42c-ed5b-4974-8468-2fcac07b2a65">
+
+
 
 
 
