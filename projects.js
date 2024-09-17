@@ -36,7 +36,8 @@ const projectsContent = [
     subTitle: "MakeUofT",
     date1: "Feb. 2023",
     image: "/assets/img/project-music-player.png",
-    description: "A simple and extensible blog web-app based on Flask.",
+    description:
+      "Our project generates 3D models of rooms and analyzes acoustic properties for optimal sound design.",
     details: [
       "Collaborated with a team of 4 to develop a hardware-software combo package, integrating Ray Tracing Algorithm with Qualcomm Snapdragon HDK to enable accurate acoustical analysis of room environments for optimal speaker placement.",
       "Designed and developed an interactive 3D visualization website, leveraging React.js and RESTful API integration, to provide users with an immersive experience of room acoustics and analysis results.",
@@ -50,8 +51,7 @@ const projectsContent = [
     subTitle: "Lyft & Forage",
     date1: "Aug. 2022",
     image: "/assets/img/project-blog-logo.jpg",
-    description:
-      "An attention-based classification model that aims at generating an answer for a given input image.",
+    description: "Lyft Mobile Engineering is a project-based program.",
     details: [
       "Engaged in Lyft's iOS App Development Program, actively coding in Swift to contribute to the development of various projects.",
       "Formulated a visually appealing user interface for the ride history feature, proficiently categorizing rides into personal and business segments.",
@@ -66,6 +66,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const recentProjectsContainer = document.getElementById("recent-projects");
   const allProjectsContainer = document.getElementById("all-projects");
   const loadMoreButton = document.getElementById("load-more");
+  const showLessButton = document.getElementById("show-less");
 
   let projectsDisplayed = 2;
 
@@ -88,7 +89,7 @@ document.addEventListener("DOMContentLoaded", function () {
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text"><small>Accomplishments</small><i class="mdi-navigation-close right green-text"></i></span>
-            <div class="card-reveal-content">
+            <div class="card-reveal-content scrollable">
               <ul>
                 ${project.details
                   .map((detail) => `<li>${detail}</li>`)
@@ -123,8 +124,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (projectsDisplayed < projectsContent.length) {
       loadMoreButton.style.display = "block";
+      showLessButton.style.display = "none";
     } else {
       loadMoreButton.style.display = "none";
+      showLessButton.style.display = "block";
     }
   }
 
@@ -133,7 +136,13 @@ document.addEventListener("DOMContentLoaded", function () {
     displayProjects();
   }
 
+  function showLessProjects() {
+    projectsDisplayed = 2;
+    displayProjects();
+  }
+
   loadMoreButton.addEventListener("click", loadMoreProjects);
+  showLessButton.addEventListener("click", showLessProjects);
 
   // Initial display
   projectsContent.sort((a, b) => new Date(b.date1) - new Date(a.date1));
