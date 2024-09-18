@@ -62,7 +62,7 @@ const projectsContent = [
   },
 ];
 
-const INITIAL_PROJECT_VALUE = 3;
+const INITIAL_PROJECT_VALUE = 1;
 
 document.addEventListener("DOMContentLoaded", function () {
   const recentProjectsContainer = document.getElementById("recent-projects");
